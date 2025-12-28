@@ -27,7 +27,7 @@ const questions = [
   {q:"A placenta membranacea is thin and mostly membrane tissue.", a:true},
   {q:"A placenta fenestrata has small window-gaps and is composed only of membrane.", a: false},
   {q:"A circumvallate placenta has an enlarged chorion frondosum that decreases risk of hemorrhage.", a:false},
-  {q:"A bilobate placenta has two adjacent lobes equal in size and without separation.", a: false},
+  {q:"A bilobate placenta has two adjacent lobes equal in size and without separation.", a: true},
   {q:"A bipartite placenta consists of two lobes that are equal in size and are separated.", a:true},
   {q:"A succenturiate lobe is an accessory placental lobe that is unequal in size and separated.", a:true},
   {q:"A positive circular gap in the fetal membranes postpartum suggests a succenturiate lobe was present.", a:true},
